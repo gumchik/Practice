@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2017\Projects\Task121\Task121\bin\Debug\Task121.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\Task121\Task121\bin\Debug\Task121.exe
+c:\users\admin\documents\visual studio 2017\Projects\Task121\Task121\bin\Debug\Task121.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Task121\Task121\obj\Debug\Task121.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\Task121\Task121\obj\Debug\Task121.exe
+c:\users\admin\documents\visual studio 2017\Projects\Task121\Task121\obj\Debug\Task121.pdb

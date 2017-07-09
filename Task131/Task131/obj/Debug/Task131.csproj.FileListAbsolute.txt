@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2017\Projects\Task131\Task131\bin\Debug\Task131.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\Task131\Task131\bin\Debug\Task131.exe
+c:\users\admin\documents\visual studio 2017\Projects\Task131\Task131\bin\Debug\Task131.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Task131\Task131\obj\Debug\Task131.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\Task131\Task131\obj\Debug\Task131.exe
+c:\users\admin\documents\visual studio 2017\Projects\Task131\Task131\obj\Debug\Task131.pdb

@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2017\Projects\Task111\Task111\bin\Debug\Task111.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\Task111\Task111\bin\Debug\Task111.exe
+c:\users\admin\documents\visual studio 2017\Projects\Task111\Task111\bin\Debug\Task111.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Task111\Task111\obj\Debug\Task111.exe
+c:\users\admin\documents\visual studio 2017\Projects\Task111\Task111\obj\Debug\Task111.pdb
